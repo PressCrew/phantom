@@ -2,7 +2,9 @@
 
 Phantom has lightweight, readable code that has been carefully optimized for **extreme** traffic.
 The default theme comes with a minimal flat design, that puts your content first.
-Built from the ground up to maximize SEO with no extra work.
+Built from the ground up to maximize SEO with no extra work. 
+
+Phantom is cross-browser compatible and even works flawlessly in Netscape Navigator. Internet Explorer 6 ain't got *bleep* on Phantom. It just works. 
 
 ### Installation
 
