@@ -1,5 +1,3 @@
-# Phantom
-
 ## Phantom is the lightest blogging platform ever created.
 
 Phantom has lightweight, readable code that has been carefully optimized for **extreme** traffic.
