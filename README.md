@@ -27,7 +27,7 @@ Replace the content of the `<h1 id="header"></h1>` tag with your custom header t
 
 #### Custom Description
 
-Replace the content of the `<div id="description"></div>` tag with your custom description text.
+Replace the content of the `<aside id="description"></aside>` tag with your custom description text.
 
 > Be sure to impress upon people who you want them to see you as, not who you actually are,
 > because let's be honest, you are probably lame.
@@ -38,14 +38,14 @@ Adding new blog posts is **easy**.
 
 Every post looks like this snippet:
 
-	<div class="post">
+	<article class="post">
 		<h2 class="title">
 			Post Title
 		</h2>
 		<div class="content">
 			Post content.
 		</div>
-	</div>
+	</article>
 
 Enter your content into the appropriate tags.
 
